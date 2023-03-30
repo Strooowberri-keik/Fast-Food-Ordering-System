@@ -1,2 +1,3 @@
 # Fast-Food-Ordering-System
-A Console-type system written in C# Language 
+An ordering console-type system entitled as "McDollibee" a combination of McDonald and Jollibee written in C#(sharp) Language.
+
