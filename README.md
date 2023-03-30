@@ -1,2 +1,2 @@
 # Fast-Food-Ordering-System
- This is a simple ordering consoled system from previous project
+A Console-type system written in C# Language 
