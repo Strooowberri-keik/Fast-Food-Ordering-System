@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MCDOLIBEE_FASTFOOD_FINAL_PROJECT/1.0.0": {
+        "runtime": {
+          "MCDOLIBEE_FASTFOOD_FINAL_PROJECT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MCDOLIBEE_FASTFOOD_FINAL_PROJECT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
